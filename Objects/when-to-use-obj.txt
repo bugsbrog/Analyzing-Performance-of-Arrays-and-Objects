@@ -1,0 +1,5 @@
+When to use objects
+
+• When you don't need order
+
+• When you want fast access / insertion and removal

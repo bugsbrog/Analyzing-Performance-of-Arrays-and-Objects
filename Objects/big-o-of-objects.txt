@@ -1,0 +1,7 @@
+Insertion - O(1) - Constant time
+
+Removal - O(1) - Constant time
+
+Searching - O(N) - Linear time
+
+Access - O(1) - Constant time

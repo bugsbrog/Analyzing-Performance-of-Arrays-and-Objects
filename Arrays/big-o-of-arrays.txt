@@ -1,0 +1,7 @@
+Insertion - It depends...
+
+Removal - It depends...
+
+Searching - O(N)
+
+Access - O(1)

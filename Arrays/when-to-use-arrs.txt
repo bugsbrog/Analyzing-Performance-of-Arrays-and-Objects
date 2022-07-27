@@ -1,0 +1,9 @@
+When to use arrays
+
+• When you need order
+
+• When you need fast access / insertion and removal (sort of...)
+
+AVOID ADDING AND REMOVING FROM THE BEGINNING OF THE ARRAY
+
+* Push and pop are faster than shift and unshift
